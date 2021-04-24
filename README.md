@@ -1,4 +1,4 @@
-# Technites
+# Team - Technites
 
 ## Team members
 - Yash Bansal
