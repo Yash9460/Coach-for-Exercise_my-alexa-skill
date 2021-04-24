@@ -14,5 +14,12 @@
 
 ## Solution : Virtual Coach
 - The focus of our project is to increase the immunity of immune system by doing exercise with the help of virtual coach.
-
-## [Solution ppt](https://docs.google.com/presentation/d/1BsNn0SXyWYBQcpJnw2yqkN0HnhvcE5KllmUfSNMi5Y0/edit?usp=sharing)
+- It gives user the information about covid health tips.
+- It provides knowledge about various health diseases.
+- It also gives knowledge about how user take precautions for health diseases. 
+- It provides fitness tips also.
+- It also provide user the virtual coach who helps user to get healthy.
+- By our program user get all information about health issues by just saying 
+     “Alexa, open workout coach”. 
+     
+## [Solution](https://docs.google.com/presentation/d/1BsNn0SXyWYBQcpJnw2yqkN0HnhvcE5KllmUfSNMi5Y0/edit?usp=sharing)
