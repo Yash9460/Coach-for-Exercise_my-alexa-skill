@@ -14,3 +14,5 @@
 
 ## Solution : Virtual Coach
 - The focus of our project is to increase the immunity of immune system by doing exercise with the help of virtual coach.
+
+## [Solution](https://docs.google.com/presentation/d/1BsNn0SXyWYBQcpJnw2yqkN0HnhvcE5KllmUfSNMi5Y0/edit?usp=sharing)
