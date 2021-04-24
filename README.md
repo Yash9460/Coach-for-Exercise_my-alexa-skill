@@ -12,4 +12,5 @@
 - When our immune system doesn't work the way it should, it is called an immune system disorder.
 - People with a weak immune system have a higher risk of experiencing frequent infections and severe symptoms. They may be more prone to pneumonia and other conditions. Bacteria and viruses, including the virusTrusted Source that causes the infection COVID-19, can have a devastating effect on a person with a compromised immune system.
 
-## Solution :
+## Solution : Virtual Coach
+- The focus of our project is to increase the immunity of immune system by doing exercise with the help of virtual coach.
