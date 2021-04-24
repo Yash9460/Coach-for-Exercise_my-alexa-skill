@@ -22,4 +22,4 @@
 - By our program user get all information about health issues by just saying 
      “Alexa, open workout coach”. 
      
-## [Solution](https://docs.google.com/presentation/d/1BsNn0SXyWYBQcpJnw2yqkN0HnhvcE5KllmUfSNMi5Y0/edit?usp=sharing)
+## [Project Details](https://docs.google.com/presentation/d/1BsNn0SXyWYBQcpJnw2yqkN0HnhvcE5KllmUfSNMi5Y0/edit?usp=sharing)
