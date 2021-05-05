@@ -1,6 +1,6 @@
 # Alexa skill 
 
-## For doing exercise to improve immunity of immune system
+## For doing exercise to increase immunity of immune system
 
 ## Problem : Immune Immunity
 - Our immune system is made up of special cells, tissues, and organs that work together to protect you.
