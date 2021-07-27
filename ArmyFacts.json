@@ -1,0 +1,18 @@
+{
+	"en": {
+		"SKILL_NAME": "Cool Indian Army Facts",
+		"GET_FACT_MESSAGE": "Here's your fact: {}",
+		"HELP_MESSAGE": "You can say tell me a Cool Indian Army fact, or, you can say exit... What can I help you with?",
+		"HELP_REPROMPT": "What can I help you with?",
+		"FALLBACK_MESSAGE": "The Cool Indian Army Facts skill can't help you with that.  It can help you discover facts about space if you say tell me a space fact. What can I help you with?",
+		"FALLBACK_REPROMPT": "What can I help you with?",
+		"ERROR_MESSAGE": "Sorry, an error occurred.",
+		"STOP_MESSAGE": "Goodbye!",
+		"FACTS": [
+			"The Indian army controls the highest battlefield in the world, the Siachen Glacier, which is 5000 metres above sea level.",
+			"The Indian army has the biggest ‘voluntary’ military force in the world.",
+			"India ranks 4th in the list of global fire power, next only to USA, Russia and China.",
+			"The Indian army has never initiated the first attack or engaged in a military coup to gain power or govern a nation."
+			
+		]
+	}
