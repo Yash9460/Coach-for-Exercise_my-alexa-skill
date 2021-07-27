@@ -7,4 +7,5 @@
 1. [Code for coach skill](https://github.com/Yash9460/my-alexa-skill/blob/main/Coach.js)
 
 2. [Code for Army Facts](https://github.com/Yash9460/my-alexa-skill/blob/main/ArmyFacts.py)
-   [Langauge_string]()
+   
+   [Langauge_string](https://github.com/Yash9460/my-alexa-skill/blob/main/ArmyFacts.json)
