@@ -4,4 +4,7 @@
      
 - Indian Army facts :- This alexa skill will tell about the Indian army facts.
  
-[Code for coach skill](https://github.com/Yash9460/my-alexa-skill/blob/main/Coach.js)
+1. [Code for coach skill](https://github.com/Yash9460/my-alexa-skill/blob/main/Coach.js)
+
+2. [Code for Army Facts](https://github.com/Yash9460/my-alexa-skill/blob/main/ArmyFacts.py)
+   [Langauge_string]()
